@@ -1,0 +1,44 @@
+.navbar-brand{
+    font-family: 'Pacifico', cursive;
+    font-weight: 900;
+    font-size: 4rem;
+    border: inset 0.625rem rgb(14, 172, 132);
+    border-radius: 30%;
+}
+#first{
+    background-color: darksalmon;
+}
+#second{
+    padding: 7% 10%;
+}
+.card{
+    font-family: 'Fugaz One', cursive;
+    font-size: 1.5rem;
+    background-color: #75b79e;
+    color: lightgoldenrodyellow;
+}
+.card-images{
+    border-radius: 50%;
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+h5{
+    font-family: 'Fugaz One', cursive;
+    font-size: 2.2rem; 
+}
+
+.nav-link{
+    font-size: 1.3rem;
+}
+.nav-item{
+    padding: 0 20px;
+}
+.copy{
+    text-align: center;
+    font-weight: 600;
+}
+
+
+
+
+

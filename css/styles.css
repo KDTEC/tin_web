@@ -1,0 +1,154 @@
+body{
+    font-family: "Montserrat";
+}
+
+#title{
+    background-color: #ff4c68;
+    
+}
+.h-one{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: #fff;
+}
+.container-fluid{
+    padding: 3% 15% 7%;
+}
+.img{
+    transform: rotate(20deg);
+    width: 60%;
+    /*position: absolute;*/
+    right: 30%;
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;  
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size:1.2rem;
+    font-family: "Montserrat";
+    font-weight: normal;
+}
+
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+.text2{
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+.text-align{
+    font-family: 'Kalam', cursive;
+    font-weight: 800;
+    font-size: 1.2rem;
+}
+.text-item{
+    padding:5%;
+    text-align: center;
+}
+.size{
+    margin-bottom: 0.625rem;
+    color: #ff3150;
+    
+}
+.size:hover{
+    color: red;
+}
+
+.part2{
+    margin-top: 4%;
+}
+
+#testimonials{
+    
+    text-align: center;
+    background-color: #f78879;
+    color: #fff;
+}
+.carousal-item{
+    padding:7% 15%;
+}
+#press{
+    background-color: #f78879;
+    text-align: center;
+    padding-bottom: 4%;
+}
+
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+h2{
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+    padding: 7% 15%;
+    padding-bottom: 3%;
+}
+
+.press1{
+    height: 12%;
+    width: 12%;
+}
+
+.press2{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.card-img{
+    border-radius: 50%;
+}
+.card-deck{
+    padding: 3%;
+    padding-top: 0;
+    text-align: center;
+}
+.card{
+    background-color: bisque;
+    min-width: 8rem;
+}
+.fact-header{
+    font-family: 'Kalam', cursive;
+    font-weight: 900;
+    font-size: 4.5rem;
+    color: darkblue;
+}
+#features{
+    background-color: #fff;
+    /*position: relative;*/
+}
+hr{
+    border: dotted 0.4rem;
+    border-bottom: none;
+    width: 5%;
+}
+#cta{
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+    color: rgb(241, 117, 14);
+    margin-bottom: 3rem;
+    font-size: 5rem;
+}
+.last{
+    border: lightseagreen inset 0.6rem;
+    border-radius: 30%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
